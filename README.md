@@ -57,6 +57,7 @@ Google Colab
 Prompt Optimizer - https://colab.research.google.com/drive/1vyKq7S4GTpf9DpYUd1lijgaQ9hVwvCDV
 
 Prompt Critique - https://colab.research.google.com/drive/15OjvBL8LV69l112L_aDDzlQnK2e_iM_w
+
 Medium Articles
 
 Promt Engineering - https://medium.com/@soumyendra.shrivastava/mastering-prompt-engineering-a-guide-to-crafting-effective-ai-queries-047a94e568c0
