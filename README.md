@@ -61,4 +61,5 @@ Prompt Critique - https://colab.research.google.com/drive/15OjvBL8LV69l112L_aDDz
 Medium Articles
 
 Promt Engineering - https://medium.com/@sravani.raparla/mastering-prompt-engineering-a-guide-to-crafting-effective-ai-queries-b14d0dde7f4e
+
 Promt Optimizer - https://medium.com/@sravani.raparla/prompt-optimizer-transforming-ai-prompt-engineering-e923bb2b81ca
